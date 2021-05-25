@@ -1,2 +1,3 @@
-# Hello_World_Exercise
-Hello world exercise, prog in python 
+# Version Control in class exercise
+The in-class exercise for Version Control
+
